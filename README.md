@@ -53,7 +53,7 @@ engagement and satisfaction
 obstacles. The system alerts the user through vibration or sound feedback based on object proximity
 - Tech Used: Arduino , Embedded C
 
-## 🚀 Certifications
+## 📜 Certifications
 
 - Hackz’24 and Hackit’25 Anna University(’24 and ’25)
 - Paper Presentation - CST National Conference (2024)
