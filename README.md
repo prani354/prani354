@@ -51,7 +51,15 @@ engagement and satisfaction
 - Developed an ultrasonic-based smart glass using Arduino to assist visually impaired individuals in detecting nearby
 obstacles. The system alerts the user through vibration or sound feedback based on object proximity
 - Tech Used: Arduino , Embedded C
-  
+
+## 🚀 Certifications
+
+- Hackz’24 and Hackit’25 Anna University(’24 and ’25)
+- Paper Presentation - CST National Conference (2024)
+- Xyntra’25 NIT Karnataka (2025)
+- Personality Development Association (Excellia Finalist)(2024)
+- Personality Development Association - Persofest - Top 60,(2024)
+- Leetcode and GFG - 100 days badges
 
 
 
