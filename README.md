@@ -20,3 +20,24 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/pranesh354/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/praneshwztfk/)
 
+## 🚀 Projects
+
+### 🔹 [Okra Maturity Analysis using Machine Vision]
+- Implemented machine vision techniques to classify okra maturity levels.
+- Used image preprocessing, feature extraction, and ML models for prediction.
+- Explored thermal imaging patterns for improved accuracy.
+
+### 🔹 [Agriculture Monitoring System using GSM Module]
+-This system monitors soil moisture, temperature, and humidity using sensors to provide real-time data. It sends SMS alerts to farmers for timely actions to optimize crop growth and water usage.
+
+### 🔹 [Portfolio Website](https://github.com/prani354/portfolio)
+- Personal portfolio built using HTML, CSS, and JavaScript.
+- Showcases my projects, skills, and achievements.
+- Responsive design with modern UI.
+
+### 🔹 [Data Structures and Algorithms in Python](https://github.com/prani354/DSA-Python)
+- Collection of solved problems from LeetCode & GFG.
+- Covers arrays, linked lists, trees, graphs, and dynamic programming.
+- Optimized solutions with clear explanations.
+
+
