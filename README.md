@@ -22,23 +22,36 @@
 
 ## 🚀 Projects
 
-### 🔹 [Okra Maturity Analysis using Machine Vision]
+### 🔹 Okra Maturity Analysis using Machine Vision
 - Implemented machine vision techniques to classify okra maturity levels.
 - Used image preprocessing, feature extraction, and ML models for prediction.
 - Explored thermal imaging patterns for improved accuracy.
 
-### 🔹 [Agriculture Monitoring System using GSM Module]
+### 🔹 Agriculture Monitoring System using GSM Module
 - This system monitors soil moisture, temperature, and humidity using sensors to provide real-time data. It sends SMS alerts to farmers for timely actions to farmers for timely actions to optimize crop growth and water usage.
 - Tech used: Python , GSM , Moisture and Temperature sensors
 
-### 🔹 [Portfolio Website](https://github.com/prani354/portfolio)
-- Personal portfolio built using HTML, CSS, and JavaScript.
-- Showcases my projects, skills, and achievements.
-- Responsive design with modern UI.
+### 🔹 Obstacle Avoidance Smart Robot
+- A smart robot equipped with sensors to detect and navigate around obstacles autonomously, ensuring efficient and
+collision-free movement and it uses real-time data processing and adaptive algorithms to adjust its path and avoid
+obstructionst.
+- Tech Used: Embedded C, Arduino, Microcontroller, Ultrasonic sensor, L293 Driver module.
 
-### 🔹 [Data Structures and Algorithms in Python](https://github.com/prani354/DSA-Python)
-- Collection of solved problems from LeetCode & GFG.
-- Covers arrays, linked lists, trees, graphs, and dynamic programming.
-- Optimized solutions with clear explanations.
+### 🔹 Anti Passback System
+- A security system using RFID technology to prevent unauthorized access by ensuring that a tag is not used for entry
+multiple times without exiting, thereby ensuring proper access control and enhanced security at entry points.
+- Tech Used: C, Arduino, RFID
+
+### 🔹 Product Recommendation System
+- A machine learning-based recommendation system that uses K-means clustering to group users based on their preferences and suggest personalized products. It enhances user experience by delivering tailored suggestions, improving
+engagement and satisfaction
+- Tech Used: Python, K-means clustering, ML algorithms
+
+### 🔹 Ultrasonic Glass using Arduino
+- Developed an ultrasonic-based smart glass using Arduino to assist visually impaired individuals in detecting nearby
+obstacles. The system alerts the user through vibration or sound feedback based on object proximity
+- Tech Used: Arduino , Embedded C
+  
+
 
 
