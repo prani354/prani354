@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Praneshwaran 👋  
 
-<!--
-**prani354/prani354** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics and Communication Engineering @ Madras Institute of Technology, Anna University  
+💻 Passionate about Python, SQL, Data Structures, and Machine Learning  
+🚀 Exploring Web Development & AI  
+📚 Currently working on: Okra Maturity Analysis using Vision transformers algorithm in CNN  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- Programming: Python, C, SQL , C++  
+- Tools: Git, GitHub, VS Code  
+- Interests: Data structures, Machine learning ,Software development,Databases  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/praneshwaranm354/)  
+- 📧 Email: praneshwaran574@gmail.com
+- 📧 Email: 2022504533@student.annauniv.edu
