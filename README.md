@@ -12,8 +12,8 @@
 
 ## 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/praneshwaranm354/)  
-- 📧 Email: praneshwaran574@gmail.com
-- 📧 Email: 2022504533@student.annauniv.edu
+- [Email]: praneshwaran574@gmail.com
+- [Email]: 2022504533@student.annauniv.edu
 
 ## 📚 Competitive Programming Profiles
 
