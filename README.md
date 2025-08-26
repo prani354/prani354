@@ -28,7 +28,7 @@
 - Explored thermal imaging patterns for improved accuracy.
 
 ### 🔹 [Agriculture Monitoring System using GSM Module]
-- This system monitors soil moisture, temperature, and humidity using sensors to provide real-time data. It sends SMS alerts to farmers for timely actions to 
+- This system monitors soil moisture, temperature, and humidity using sensors to provide real-time data. It sends SMS alerts to farmers for timely actions to farmers for timely actions to optimize crop growth and water usage.
 - Tech used: Python , GSM , Moisture and Temperature sensors
 
 ### 🔹 [Portfolio Website](https://github.com/prani354/portfolio)
