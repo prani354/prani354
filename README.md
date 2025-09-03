@@ -11,7 +11,8 @@
 - Interests: Data structures, Machine learning ,Software development,Databases  
 
 ## 📫 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/praneshwaranm354/)  
+- [LinkedIn](https://www.linkedin.com/in/praneshwaranm354/)
+- [Portfolio](https://prani354.github.io/prani354/)
 - Gmail: praneshwaran574@gmail.com
 - Email: 2022504533@student.annauniv.edu
 
