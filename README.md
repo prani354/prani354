@@ -26,8 +26,8 @@
 
 <div align="center">
   <img src="assets/techypy.gif" alt="Python" width="120"/>
-  <img src="assets/css.png" alt="CSS" width="120"/>
-  <img src="assets/js.png" alt="JavaScript" width="120"/>
+  <img src="assets/C-C.gif" alt="C C++" width="120"/>
+  
 </div>
 
 ## 🚀 Projects
