@@ -24,7 +24,11 @@
 
 ## 🛠️ Techs
 
-<img src="assets/techypy.gif" alt="Python Logo" width="300"/>
+<div align="center">
+  <img src="assets/techypy.gif" alt="Python" width="120"/>
+  <img src="assets/css.png" alt="CSS" width="120"/>
+  <img src="assets/js.png" alt="JavaScript" width="120"/>
+</div>
 
 ## 🚀 Projects
 
