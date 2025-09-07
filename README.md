@@ -24,7 +24,7 @@
 
 ## 🛠️ Techs
 
-<div align="center">
+<div align="left">
   <img src="assets/techypy.gif" alt="Python" width="120"/>
   <img src="assets/C-C.gif" alt="C C++" width="120"/>
   
