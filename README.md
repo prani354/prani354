@@ -22,6 +22,10 @@
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/praneshwztfk/)
 [![Unstop](https://img.shields.io/badge/Unstop-593D88?style=for-the-badge&logo=hackthebox&logoColor=white)]([https://unstop.com/profile/YOUR_USERNAME](https://unstop.com/u/pranem8619))
 
+## 🛠️ Techs
+
+![Tech Stack](assets/py_logo.png)
+
 ## 🚀 Projects
 
 ### 🔹 Okra Maturity Analysis using Machine Vision
