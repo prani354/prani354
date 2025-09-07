@@ -24,7 +24,7 @@
 
 ## 🛠️ Techs
 
-![Tech Stack](assets/techypy.gif){width=300px}
+<img src="assets/techypy.gif" alt="Python Logo" width="300"/>
 
 ## 🚀 Projects
 
