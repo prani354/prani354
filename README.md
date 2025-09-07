@@ -24,7 +24,7 @@
 
 ## 🛠️ Techs
 
-![Tech Stack](assets/py_logo.png)
+![Tech Stack](assets/techypy.gif)
 
 ## 🚀 Projects
 
