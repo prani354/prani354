@@ -1,14 +1,15 @@
 # Hi there, I'm Praneshwaran 👋  
 
+💻 Software development and test Intern at Aptiv from Jan'26 to Jun'26
 🎓 Electronics and Communication Engineering @ Madras Institute of Technology, Anna University  
 💻 Passionate about Python, SQL, Data Structures, and Machine Learning  
 🚀 Exploring Web Development & AI  
-📚 Currently working on: Okra Maturity Analysis using Vision transformers algorithm in CNN  
+ 
 
 ## 🔧 Tech Stack
-- Programming: Python, C, SQL , C++  
-- Tools: Git, GitHub, VS Code  
-- Interests: Data structures, Machine learning ,Software development,Databases  
+- Programming and tech concepts: Python, SQL , C++ , Kafka, LLM, Automation framework using Python, API testing.
+- Tools: Git, GitHub, VS Code, Kaggle, MySQL, Leetcode, Pytest, POSTMAN
+- Interests: Data structures, Machine learning ,Software development, Software testing, Databases  
 
 ## 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/praneshwaranm354/)
